@@ -1,0 +1,4 @@
+Daihatsu,Tak Beroperasi,B 2341 TEK
+Honda,Beroperasi,B 2345 JAP
+Toyota,Tak Beroperasi,B 3421 TUK
+Mercedes-Benz,Tak Beroperasi,N 788 GH
